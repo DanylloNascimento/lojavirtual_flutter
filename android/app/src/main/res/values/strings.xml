@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Loja Flutter</string>
+
+    <string name="facebook_app_id">317436536609220</string>
+
+    <string name="fb_login_protocol_scheme">fb317436536609220</string>
+
+</resources>
